@@ -5,5 +5,5 @@ We are also pleased to invite Ismile families to join us and witness our assista
 
 <img src="https://github.com/ismilelabtelkom/Machine-Learning-BootCamp/blob/main/1.png" width="70%" height="70%">
 
-![link instagram announce](https://www.instagram.com/p/CpHwqnrpMIj/)
+[link instagram announce](https://www.instagram.com/p/CpHwqnrpMIj/)
 
